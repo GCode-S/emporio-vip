@@ -15,16 +15,20 @@ após a instalação você poderá testar o sistemas utilizando os seguintes có
 <br/>
 3: Short Jeans femino com detalhes de rasgado e custuras vermelhas vinhos
 <br/>
-<br>
+<br />
 utilizando a sintaxe * você poderá passar o mesmo produto várias vezes.
 exemplo:
 <br/>
+<br />
   [quantidade_desejada]*[codigo_do_produto]
-  <br/>
+<br/>
+<br />
 exemplo 2:
 <br/>
+<br />
   3*2 // result:  3 camisa polo
-  <br/>
+<br/>
+<br />
   
  cadastramento de produtos e editar produtos são apenas enfeite.
  
