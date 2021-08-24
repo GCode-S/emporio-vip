@@ -1,0 +1,166 @@
+
+
+.container-emporio{
+     background-color: #191C2D;
+     /* height: 100vh; */
+     /* flex: 1; */
+
+  }
+
+.container-emporio #fixed{
+  /* display: flex; */
+  width: 100%;
+  margin-top: -10px;
+  position: fixed;
+  background-color: #191C2D;
+}
+
+.container-emporio #logo{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+.container-emporio #submit{
+  background-color: white;
+  height: 30px;
+  width: 30px;
+  margin-left: -32px;
+  border-width: 0;
+  border-radius: 8px;
+}
+
+
+.container-emporio #div-value{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 440px;
+}
+
+.container-emporio #value{
+  font-size: 16pt;
+  text-transform: capitalize;
+}
+
+.container-emporio #span-value{
+  color: #57AC14;
+  padding-left: 10px;
+}
+
+.container-emporio #div-buttons-header{
+    padding: 20px;
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.container-emporio #button-link{
+    font-size: 12pt;
+    text-decoration: none;
+}
+
+.container-emporio #div-links{
+    display: flex;
+}
+
+.container-emporio #action{
+  margin-right: 50px;
+  background-color: transparent;
+  border: none;
+  border-bottom:1px solid white;
+  color:white;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  font-size: 12pt;
+  cursor:pointer;
+  transition: .5s;
+}
+
+.container-emporio #action:hover{
+    border: none;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    color:black;
+}
+
+.container-emporio .space{
+  height: 50px;
+}
+
+.container-emporio #empty-space{
+  width: 150px;
+}
+
+.container-emporio #buttonRemove{
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  border-style: none;
+  height: 35px;
+  width: 35px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: .5s;
+}
+
+.container-emporio #buttonRemove:hover{
+  background-color: rgb(226, 226, 226);
+}
+
+.container-emporio #group-action{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  
+
+.container-emporio #tableDiv{
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+
+.container-emporio #titleTabV{
+    color: #d6c134;
+    font-size: 14pt;
+    font-weight: bold;
+    
+}
+.container-emporio #itensTabName{
+    width: 200px;
+    border-bottom: solid;
+    border-bottom-width: 1px;
+}
+.container-emporio #itensTab{
+  
+  border-bottom: solid;
+  border-bottom-width: 1px;
+
+}
+
+.container-emporio td {
+  height: 40px;
+  width: 120px;
+  padding-right: 25px;
+}
+
+.container-emporio #tr-items:nth-child(even) {
+  background-color: transparent;
+}
+  
+.container-emporio #tr-items:hover:nth-child(n + 1) {
+  background-color: #1e233d;
+  font-weight: bold;
+  color: #fff;
+}
+  

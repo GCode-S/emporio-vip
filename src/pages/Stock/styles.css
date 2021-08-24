@@ -1,0 +1,104 @@
+.body{
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttonSearch{
+    background-color: transparent;
+    cursor: transparent;
+    border: none;
+}
+.container-stock .titleTab td{
+    font-size: 16pt;
+    color: yellowgreen;
+}
+
+.container-stock .titleTabSpacing{
+    width: 200px;
+}
+
+.lists{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.container-stock .listsName{
+     width: 300px;
+}
+
+.itemList  {
+    align-items: center;
+    justify-content: center;
+}
+
+.checked{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-stock .checked p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-stock td{
+    width: 150px;
+}
+
+.container-stock tr{
+    height: 50px;
+}
+
+.container-stock tr:nth-child(even) {
+    background-color: transparent;
+}
+    
+.container-stock tr:hover:nth-child(1n + 2) {
+    background-color: #1e233d;
+    font-weight: bold;
+    color: #fff;
+}
+
+.btnEdit{
+    background-color: transparent;
+    border: none;
+    margin-right: 50px;
+    cursor: pointer;
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    transition: .5s;
+}
+
+.btnEdit:hover{
+    border: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
+.btnDelet{
+    background-color: transparent;
+    border:none;
+    cursor: pointer;
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    transition: .5s;
+}
+
+.btnDelet:hover{
+    border: solid;
+    border-width: 1px;
+    border-color: white;
+    background-color: white;
+}   
