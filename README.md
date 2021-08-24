@@ -26,7 +26,7 @@ exemplo:
 exemplo 2:
 <br/>
 <br />
-  3*2 // result:  3 camisa polo
+  <h5>3*2</h5> // result:  3 camisa polo
 <br/>
 <br />
   
