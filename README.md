@@ -1,6 +1,9 @@
 # emporio-vip
 Sisteminha de compras de uma loja de roupas. Desenvolvido em React JS.
 
+<h2>Instalação:</h2>
+
+
 após a instalação você poderá testar o sistemas utilizando os seguintes códigos de produtos:
 <br/>
 1: camisa polo evolution new
@@ -9,6 +12,7 @@ após a instalação você poderá testar o sistemas utilizando os seguintes có
 <br/>
 3: Short Jeans femino com detalhes de rasgado e custuras vermelhas vinhos
 <br/>
+<br>
 utilizando a sintaxe * você poderá passar o mesmo produto várias vezes.
 exemplo:
 <br/>
