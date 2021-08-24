@@ -9,7 +9,6 @@ import { IoSearch, IoBackspaceOutline, IoTrash } from 'react-icons/io5';
 import { Button } from '../../components/Button';
 import { SearchInput } from '../../components/SearchInput';
 
-// import myProducts from '../../functions/Produtos';
 
 import logo from '../../assets/logo.png';
 
