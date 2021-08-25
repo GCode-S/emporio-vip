@@ -7,7 +7,7 @@ depois que abaixar o repositório, basta entrar na pasta do mesmo pelo terminar 
 ao finalizar a instalção dos pacotes basta iniciar o projeto com o seguinte comando <h4><i>yarn start</i></h4>
 
 
-após a instalação você poderá testar o sistemas utilizando os seguintes códigos de produtos:
+após a instalação você poderá testar o sistema utilizando os seguintes códigos dos produtos:
 <br/>
 1: camisa polo evolution new
 <br/>
